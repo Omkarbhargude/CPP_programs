@@ -20,3 +20,9 @@ A structured collection of categorized C++ programs covering **core concepts**, 
 -------------------------------------------------------------------------------------------------
 
 
+🛠 Tech & Features
+
+    Language: C++ (compiled using G++)
+    Focus Areas: Syntax mastery, problem-solving, memory management, logic development
+    Difficulty Level: Beginner to Intermediate
+    Platform: Terminal-based (CLI)
