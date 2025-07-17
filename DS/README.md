@@ -1,7 +1,6 @@
-# 📦 C++ Data Structures Repository
+# 📦 C++ Data Structures 
 
-Welcome to my C++ Data Structures repository! 👨‍💻  
-This repo contains clean, modular, and menu-driven implementations of fundamental data structures in C++.
+This folder contains clean, modular, and menu-driven implementations of fundamental data structures in C++.
 
 ---
 
